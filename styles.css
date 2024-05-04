@@ -10,6 +10,12 @@ body {
     gap: 16px;
     padding: 8px 32px;
     background-color: #1F2937;
+    width: 1032px;
+    margin: auto;
+}
+
+.menu {
+    background-color: #1F2937;
 }
 
 a {
